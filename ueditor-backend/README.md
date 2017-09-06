@@ -21,5 +21,3 @@ ueditor_backend(app)
 ## Example
 
 [ueditor for node with ueditor-backend]()
-
-
