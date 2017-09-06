@@ -1,5 +1,5 @@
 # ueditor-backend
-[![ueditor-backend logo](../logo.jpg)](https://github.com/ELSS-ZION/ueditor-for-node/raw/master/logo.jpg)
+[![ueditor-backend logo](https://github.com/ELSS-ZION/ueditor-for-node/raw/master/logo.jpg)](https://github.com/ELSS-ZION/ueditor-for-node/tree/master/ueditor-backend)
 
 [UEditor](https://github.com/fex-team/ueditor) backend for [node](http://nodejs.org)
 
