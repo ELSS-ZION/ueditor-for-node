@@ -1,0 +1,5 @@
+const express = require('express')
+const ueditor_backend = require('ueditor-backend')
+const app = express()
+ueditor_backend(app)
+app.listen(80)
