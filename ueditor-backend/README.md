@@ -23,6 +23,9 @@ const ueditor_backend = require('ueditor-backend')
 ueditor_backend(app)
 ```
 
+## Config
++ modify '/node_modules/ueditor-backend/config.json'
+
 ## Example
 
-[ueditor for node with ueditor-backend]()
++ [ueditor for node with ueditor-backend]()
