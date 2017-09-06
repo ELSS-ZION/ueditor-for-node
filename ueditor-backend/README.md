@@ -26,6 +26,6 @@ ueditor_backend(app)
 ## Config
 + modify `/node_modules/ueditor-backend/config.json`
 
-## Example
+## Examples
 
-+ [ueditor for node with ueditor-backend]()
++ [ueditor for node with ueditor-backend](https://github.com/ELSS-ZION/ueditor-for-node/tree/master/example)
