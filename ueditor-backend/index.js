@@ -10,7 +10,7 @@ const fileUpload = require('express-fileupload')
 const body_parser = require('body-parser')
 const rootDir = path.dirname(require.main.filename)
 
-module.exports = function (app, options) {
+module.exports = function (app) {
     
     app.use(body_parser.urlencoded({
         extended: true
