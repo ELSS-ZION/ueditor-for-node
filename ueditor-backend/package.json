@@ -1,7 +1,11 @@
 {
   "name": "ueditor-backend",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
+  "keywords": [
+    "ueditor",
+    "neditor"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
