@@ -24,7 +24,7 @@ ueditor_backend(app)
 ```
 
 ## Config
-+ modify '/node_modules/ueditor-backend/config.json'
++ modify `/node_modules/ueditor-backend/config.json`
 
 ## Example
 
