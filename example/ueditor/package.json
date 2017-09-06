@@ -9,7 +9,6 @@
   "author": "elss-zion",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.15.4",
     "ueditor-backend": "^1.0.5"
   }
 }

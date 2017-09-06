@@ -10,7 +10,12 @@
 ```
 
 ## Usage
-
+1. modify `ueditor.config.js`
+```js
+// 服务器统一请求接口路径
+serverUrl: URL + "php/controller.php"
+```
+2. call ueditor_backend()
 ```js
 const express = require('express')
 const app = express()
