@@ -1,0 +1,14 @@
+{
+  "name": "ueditor",
+  "version": "1.0.0",
+  "description": "a demo for ueditor-backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elss-zion",
+  "license": "MIT",
+  "dependencies": {
+    "ueditor-backend": "^1.0.5"
+  }
+}
