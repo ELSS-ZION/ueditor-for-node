@@ -13,7 +13,7 @@
 1. modify `ueditor.config.js`
 ```js
 // 服务器统一请求接口路径
-serverUrl: URL + "php/controller.php"
+serverUrl: URL + "ueditor-backend"
 ```
 2. call ueditor_backend()
 ```js
