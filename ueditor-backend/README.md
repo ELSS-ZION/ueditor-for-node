@@ -28,4 +28,4 @@ ueditor_backend(app)
 
 ## Examples
 
-+ [ueditor for node with ueditor-backend](https://github.com/ELSS-ZION/ueditor-for-node/tree/master/example)
++ [ueditor-backend examples](https://github.com/ELSS-ZION/ueditor-for-node/tree/master/examples)
