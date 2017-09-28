@@ -1,7 +1,7 @@
 {
   "name": "ueditor-backend",
-  "version": "1.0.12",
-  "description": "",
+  "version": "1.0.14",
+  "description": "UEditor backend for node",
   "repository": {
     "type": "git",
     "url": "https://github.com/ELSS-ZION/ueditor-for-node/tree/master/ueditor-backend"

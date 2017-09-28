@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
- npm install ueditor-backend
+$ npm install ueditor-backend
 ```
 
 ## Usage
