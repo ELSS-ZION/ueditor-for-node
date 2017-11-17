@@ -48,7 +48,7 @@ module.exports = function (req, res, callback) {
     if (allowFiles) {
         var isMatch = false
         allowFiles.forEach(function (element) {
-            if (path.extname(oriName) == element) {
+            if (path.extname(oriName).toLowerCase() == element.toLowerCase()) {
                 isMatch = true
             }
         })
